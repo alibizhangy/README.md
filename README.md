@@ -1,5 +1,5 @@
 # README.md
 
-if (work hard) {
+if (working hard) {
   you can make your dream 
 }
